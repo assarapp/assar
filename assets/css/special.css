@@ -1,0 +1,28 @@
+/**************/
+.hiw .hiw-payment, .trust-and-safety .hiw-payment {
+  background-color: #20734c;
+  padding: 2em 0;
+}
+
+.hiw .hiw-payment, .hiw .hiw-payment .static-title, .trust-and-safety .hiw-payment, .trust-and-safety .hiw-payment .static-title {
+  color: white;
+}
+
+.hiw .hiw-payment .img-container.step1,
+.trust-and-safety .hiw-payment .img-container.step1 {
+    background-image: url(/assets/images/hiw-1.svg)
+}
+.hiw .hiw-payment .img-container.step2,
+.trust-and-safety .hiw-payment .img-container.step2 {
+    background-image: url(/assets/images/hiw-2.svg)
+}
+.hiw .hiw-payment .img-container.step3,
+.trust-and-safety .hiw-payment .img-container.step3 {
+    background-image: url(/assets/images/hiw-3.svg)
+}
+.hiw .hiw-payment .img-container.step4,
+.trust-and-safety .hiw-payment .img-container.step4 {
+    background-image: url(/assets/images/hiw-4.svg)
+}
+
+/*************/
