@@ -16,4 +16,15 @@ td ul li	{ float:left; padding:3px; }
 #footer		{ margin:0px auto; font-size:12px; text-align:center; }
 
 /*demo code*/
-#lodge		{ background:url(../images/carrusel.png) repeat-x top left; margin-top: 68px; height:160%; width:100%;}
+#lodge		{ background:url(../images/carrusel.png) repeat-x top left; margin-top: 68px; height:100%; width:100%;}
+
+
+div.intro img
+{
+	margin-left: auto;
+    margin-right: auto;
+    height: 69px; 
+    width: 200px; 
+    position:absolute; 
+    top: 400px;
+}

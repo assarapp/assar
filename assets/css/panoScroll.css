@@ -20,11 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 .pan	{ margin:0px; padding-top:15px; padding-bottom:5px; }
 
-.panView	{ position:relative; color:#000;}
+.panView	{ position:relative; color:#000; height: 20%;}
 
 .sUp, .sLeft, .sDown, .sRight, .sPause, .sDownload	{ height:25px; width:25px; text-indent:-9000px; cursor:pointer; display:inline-block; }
 
-.sRight			{ /*background:url(../images/logo.png)*/ no-repeat top left; position:absolute; left:150px; top:15px; }
+.sRight			{ /*background:url(assets/images/Google play.png)*/ no-repeat top left; position:absolute; left:150px; top:15px; }
 .sRight:hover	{ /*background-position:0 -25px;*/ }
 .sLeft			{ /*background:url(../images/logo.png)*/ no-repeat -25px 0; position:absolute; left:25px; top:15px; }
 .sLeft:hover	{ /*background-position:-25px -25px;*/ }

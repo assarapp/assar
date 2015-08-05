@@ -289,41 +289,41 @@ body.marketing .footer .bottom .social span {
 }
 @-webkit-keyframes process-icon-in {
     0% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg)
     }
     49.9% {
-        border-color: #cbcfcf
+        border-color: #4071D9
     }
     50% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -webkit-transform: rotateY(90deg)
     }
     100% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg)
     }
 }
 @-moz-keyframes process-icon-in {
     0% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -moz-transform: rotateY(0deg)
     }
     49.9% {
-        border-color: #cbcfcf
+        border-color: #4071D9
     }
     50% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -moz-transform: rotateY(90deg)
     }
     100% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -moz-transform: rotateY(0deg)
     }
 }
 @keyframes process-icon-in {
     0% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg);
         -moz-transform: rotateY(0deg);
         -ms-transform: rotateY(0deg);
@@ -331,10 +331,10 @@ body.marketing .footer .bottom .social span {
         transform: rotateY(0deg)
     }
     49.9% {
-        border-color: #cbcfcf
+        border-color: #4071D9
     }
     50% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -webkit-transform: rotateY(90deg);
         -moz-transform: rotateY(90deg);
         -ms-transform: rotateY(90deg);
@@ -342,7 +342,7 @@ body.marketing .footer .bottom .social span {
         transform: rotateY(90deg)
     }
     100% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg);
         -moz-transform: rotateY(0deg);
         -ms-transform: rotateY(0deg);
@@ -352,41 +352,41 @@ body.marketing .footer .bottom .social span {
 }
 @-webkit-keyframes process-icon-out {
     0% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg)
     }
     49.9% {
-        border-color: #6bbe98
+        border-color: #4071D9
     }
     50% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -webkit-transform: rotateY(90deg)
     }
     100% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg)
     }
 }
 @-moz-keyframes process-icon-out {
     0% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -moz-transform: rotateY(0deg)
     }
     49.9% {
-        border-color: #6bbe98
+        border-color: #4071D9
     }
     50% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -moz-transform: rotateY(90deg)
     }
     100% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -moz-transform: rotateY(0deg)
     }
 }
 @keyframes process-icon-out {
     0% {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg);
         -moz-transform: rotateY(0deg);
         -ms-transform: rotateY(0deg);
@@ -394,10 +394,10 @@ body.marketing .footer .bottom .social span {
         transform: rotateY(0deg)
     }
     49.9% {
-        border-color: #6bbe98
+        border-color: #4071D9
     }
     50% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -webkit-transform: rotateY(90deg);
         -moz-transform: rotateY(90deg);
         -ms-transform: rotateY(90deg);
@@ -405,7 +405,7 @@ body.marketing .footer .bottom .social span {
         transform: rotateY(90deg)
     }
     100% {
-        border-color: #cbcfcf;
+        border-color: #4071D9;
         -webkit-transform: rotateY(0deg);
         -moz-transform: rotateY(0deg);
         -ms-transform: rotateY(0deg);
@@ -415,86 +415,86 @@ body.marketing .footer .bottom .social span {
 }
 @-webkit-keyframes process-icon-svg-in {
     0% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     49.9% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     50% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     100% {
-        fill: #6bbe98
+        fill: #4071D9
     }
 }
 @-moz-keyframes process-icon-svg-in {
     0% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     49.9% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     50% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     100% {
-        fill: #6bbe98
+        fill: #4071D9
     }
 }
 @keyframes process-icon-svg-in {
     0% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     49.9% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     50% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     100% {
-        fill: #6bbe98
+        fill: #4071D9
     }
 }
 @-webkit-keyframes process-icon-svg-out {
     0% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     49.9% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     50% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     100% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
 }
 @-moz-keyframes process-icon-svg-out {
     0% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     49.9% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     50% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     100% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
 }
 @keyframes process-icon-svg-out {
     0% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     49.9% {
-        fill: #6bbe98
+        fill: #4071D9
     }
     50% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
     100% {
-        fill: #cbcfcf
+        fill: #4071D9
     }
 }
 @-webkit-keyframes fade-up {
@@ -1448,7 +1448,7 @@ body.marketing .platform h2 {
     }
 }
 body.marketing .plain-text p,
-body.marketing .intro p,
+body.marketing .intromain p,
 body.marketing .split-section p,
 body.marketing .resources p,
 body.marketing .illustrated-features p,
@@ -1561,7 +1561,7 @@ body.marketing .split-section .icon {
     body.marketing .split-section .icon {
         width: 60px;
         height: 60px;
-        border: 2px solid #82d5fb;
+        border: 2px solid #CBCFCF;
         border-radius: 100%;
         background: #fff;
         position: absolute;
@@ -1581,7 +1581,7 @@ body.marketing .split-section .icon {
         transform: translate(-50%, -50%)
     }
     body.marketing .split-section .icon path {
-        fill: #82d5fb
+        fill: #CBCFCF
     }
 }
 @media screen and (min-width: 60em) {
@@ -1778,7 +1778,7 @@ body.marketing .process {
     body.marketing .process:after {
         content: " ";
         display: block;
-        background: #6bbe98;
+        background: #4071D9;
         width: 2px;
         height: 100%;
         position: fixed;
@@ -1792,13 +1792,13 @@ body.marketing .process {
     }
     body.marketing .process:after 
     {
-        background: #82D5FB;
+        background: #4071D9;
     }
     body.marketing .process.bottom:after {
         bottom: 0
     }
     body.marketing .process .is-active-section.in .title {
-        color: #82D5FB; /*CAmbian el color de titulos de los screen*/
+        color: #4071D9; /*CAmbian el color de titulos de los screen*/
     }
     body.marketing .process .is-active-section.in .icon {
         -webkit-animation-fill-mode: forwards;
@@ -1820,7 +1820,7 @@ body.marketing .process {
         animation-name: process-icon-in
     }
     body.marketing .process .is-active-section.in .icon path {
-        fill: #82d5fb;
+        fill: #4071D9;
         -webkit-transition: fill 250ms linear;
         -moz-transition: fill 250ms linear;
         transition: fill 250ms linear
@@ -1848,7 +1848,7 @@ body.marketing .process {
         transition: fill 250ms linear
     }
     body.marketing .process .has-sub1 .sub1 {
-        border-color: #6bbe98;
+        border-color: #4071D9;
         -webkit-transform: scale(0.7);
         -moz-transform: scale(0.7);
         -ms-transform: scale(0.7);
@@ -2207,16 +2207,20 @@ screen and (min-width: 48em) and (min-resolution: 1.3dppx) {
     body.marketing .illustrated-features .tour1:before {
         right: -20px
     }
+    
+
 }
 @media screen and (min-width: 62.5em) {
     body.marketing .illustrated-features .tour1:before {
         right: -40px
     }
+    
 }
 @media screen and (min-width: 68.75em) {
     body.marketing .illustrated-features .tour1:before {
         right: -44px
     }
+    
 }
 @media screen and (min-width: 48em) {
     body.marketing .illustrated-features .tour2:before {
@@ -2235,7 +2239,10 @@ screen and (min-width: 48em) and (min-resolution: 1.3dppx) {
         -o-transform: translate(0, -50%);
         transform: translate(0, -50%)
     }
+
+    
 }
+
 @media screen and (min-width: 48em) and (min--moz-device-pixel-ratio: 1.3),
 screen and (min-width: 48em) and (-o-min-device-pixel-ratio: 2.6 / 2),
 screen and (min-width: 48em) and (-webkit-min-device-pixel-ratio: 1.3),
